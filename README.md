@@ -1,4 +1,5 @@
 Sarah
 =====
 
-&lt;Sarah> The girl that answers with commands
+<Sarah> Virtual assistance Telegram Contact.
+<The girl that answers with commands> 
